@@ -93,10 +93,10 @@ The workflow contains 10 interconnected nodes divided into two primary pipelines
 *📸 Workflow Screenshots*
 
 *1️⃣ Complete Workflow Architecture*
-[Insert Screenshot 1 Here]
+[Screenshot RAG finance.png]
 
 *2️⃣ Live Query & AI Response*
-[Insert Screenshot 2 Here]
+[Screenshot RAG finance (2).png]
 
 *📈 Performance Notes*
 
@@ -120,9 +120,9 @@ The workflow is structured in a beginner-friendly format so users can run it loc
 
 *📂 Repository Files*
 
-* Workflow JSON: XX
-* Screenshot 1: XX
-* Screenshot 2: XX
+* Workflow JSON:pakistan finance accounting 2009 data.json 
+* Screenshot 1: Screenshot RAG finance.png
+* Screenshot 2: Screenshot RAG finance (2).png
 
 *🚀 Future Improvements*
 
