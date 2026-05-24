@@ -68,10 +68,10 @@ Follow these streamlined instructions to get this exact financial framework up a
 Below are the actual blueprints of the system architecture and the verified user output:
 
 ### 1. Complete n8n Structural Map
-![Complete n8n Workflow Blueprint](workflow_screenshot.png)
+![Complete n8n Workflow Blueprint](Screenshot RAG finance.png)
 
 ### 2. Live Verified Output Test Result
-![Live Test Output](output_screenshot.png)
+![Live Test Output](Screenshot RAG finance (2).png)
 
 (Note: Take screenshots of your running n8n canvas and successful chat response, save them as workflow_screenshot.png and output_screenshot.png inside your root GitHub directory, and they will display cleanly above).
 
